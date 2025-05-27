@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<portfolio>
+  <fullname>Hello! I'm Kristine Gay M. Salinas.👋</fullname>
+  <tagline>“When we strive to become better than we are, everything around us becomes better too.” —Paulo Coelho</tagline>
+  <location>From Hinunangan, Southern Leyte, Philippines</location>
+  <photo>/images/phot.jpg</photo>
+  
+  <social>
+    <link name="Facebook">https://www.facebook.com/nanbyeonim01</link>
+    <link name="LinkedIn">https://www.linkedin.com/in/its-kristine-999a8b214/</link>
+    <link name="GitHub">https://github.com/iskristine</link>
+    <link name="Instagram">https://www.instagram.com/byeoniee/</link>
+  </social>
+
+  <projects>
+    <project>
+      <title>UniTech</title>
+      <description>A all in one online shopping website using PHP, Javascript, HTML and CSS .</description>
+      <image>images/Unitech.png</image>
+      <url>https://github.com/iskristine/UniTech</url>
+    </project>
+    <project>
+      <title>Employee Attendance Management</title>
+      <description>PHP and MySQL based employee attendance tracking system.</description>
+      <image>images/logo1.png</image>
+      <url>https://github.com/iskristine/JKCorp-EMS</url>
+    </project>
+    <project>
+      <title>PRECASTi</title>
+      <description>Precasti is a simple, intuitive productivity tool designed to
+       help users efficiently manage their daily tasks and goals. Using Javascript, React.js, HTML, CSS and MongoDB for database</description>
+      <image>images/precasti.png</image>
+      <url>https://github.com/iskristine/Precasti</url>
+    </project>
+  </projects>
+
+  <skills>
+    <skill>HTML</skill>
+    <skill>CSS</skill>
+    <skill>JavaScript</skill>
+  </skills>
+
+  <talents>
+    <talent>Singing</talent>
+    <talent>Designing</talent>
+    <talent>Drawing</talent>
+    <talent>Playing Guitar</talent>
+  </talents>
+
+  <organizations>
+    <organization>
+      <name>Southern Leyte State University Hin. - Peer Facilitators Group</name>
+      <role>Muse</role>
+      <years>2022-2024</years>
+    </organization>
+    <organization>
+      <name>Holy Rosary Academy Inc. - Science Club</name>
+      <role>Member</role>
+      <years>2019-2020</years>
+    </organization>
+     <organization>
+      <name>Youth Ministry - Music Team</name>
+      <role>Member</role>
+      <years>2019-2021</years>
+    </organization>
+    <organization>
+      <name>Canipaan National High School - TLE Club</name>
+      <role>Secretary</role>
+      <years>2017-2018</years>
+    </organization>
+    <organization>
+      <name>Canipaan National High School - Mapeh Club</name>
+      <role>Member</role>
+      <years>2016-2017</years>
+    </organization>
+    <organization>
+      <name>Canipaan Elementary School - Marching Band</name>
+      <role>Flag</role>
+      <years>2012-2014</years>
+    </organization>
+  </organizations>
+
+  <services>
+    <service>
+      <title>Web Development</title>
+      <description>Creating responsive and dynamic websites.</description>
+    </service>
+    <service>
+      <title>UI/UX Design</title>
+      <description>I craft user-friendly and visually appealing interfaces using modern design principles.</description>
+    </service>
+    <service>
+      <title>Logo and Branding Kit</title>
+      <description>I design company logo and basic branding kits for startups. </description>
+    </service>
+  </services>
+
+  <testimonials>
+  <testimonial>
+    <text>Kristine is a dedicated and talented Student.</text>
+    <relationship> Teacher</relationship>
+    <author>Mrs. Janette Bacoy</author>
+  </testimonial>
+  <testimonial>
+    <text>Her creativity and problem-solving skills are impressive.</text>
+    <relationship> Co-worker</relationship>
+    <author>Ms. Apple Mae Azon</author>
+  </testimonial>
+  <testimonial>
+    <text>Respectful and Responsible Member</text>
+    <relationship> Head of PFG</relationship>
+    <author>Mrs. Maria Lita Arquion</author>
+  </testimonial>
+</testimonials>
+  <contact>
+    <email>kristinesalinas023@gmail.com</email>
+    <phone>+63 926 121 3533</phone>
+    <location>Purok A, Canipaan, Hinunangan, Southern Leyte 6608 Philippines</location>
+  </contact>
+</portfolio>
